@@ -14,3 +14,5 @@ Dust: 粉末
 字典替换器作者:wdhwg001
 
 字典替换器地址:http://libertydomemod.b0.upaiyun.com/index.html
+
+YAML检查器地址:http://nodeca.github.io/js-yaml/
