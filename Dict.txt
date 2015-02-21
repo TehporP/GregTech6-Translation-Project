@@ -1,6 +1,87 @@
 #Bugfix
 
 #物质
+Lithium: 锂
+Beryllium: 铍
+Boron: 硼
+Carbon: 碳
+Souium: 钠
+Magnesium: 镁
+Aluminium: 铝
+Silicon: 硅
+Phosphorus: 磷
+Slufur: 硫
+Potassium: 钾
+Calcium: 钙
+Scandium: 钪
+Titanium: 钛
+Vanadium: 钒
+Chromium: 铬
+Manganese: 锰
+Iron: 铁
+Cobalt: 钴
+Nickel: 镍
+Copper: 铜
+Zinc: 锌
+Gallium: 镓
+Germanium: 锗
+Arsenic: 砷
+Selenium: 硒
+Rubidium: 铷
+Strontium: 锶
+Yttrium: 钇
+Zirconium: 锆
+Niobium: 铌
+Molybdenum: 钼
+Technetium: 锝
+Ruthenium: 钌
+Rhodium: 铑
+Palladium: 钯
+Silver: 银
+Cadmium: 镉
+Indium: 铟
+Tin: 锡
+Antimony: 锑
+Tellurium: 碲
+Caesium: 铯
+Barium: 钡
+Lanthanum: 镧
+Cerium: 铈
+Praseodymium: 镨
+Neodymium: 钕
+Promethium: 钷
+Samarium: 钐
+Europium: 铕
+Gadolinium: 钆
+Terbium: 铽
+Dyspromium: 镝
+Holmium: 钬
+Erbium: 铒
+Thulium: 铥
+Ytterbium: 镱
+Lutetium: 镥
+Hafnium: 铪
+Tantalum: 钽
+Tungesten: 钨
+Rhenium: 铼 
+Osmium: 锇
+Iridium: 铱
+Platinum: 铂
+Gold: 金
+Thallium: 铊
+Lead: 铅
+Bismuth: 铋
+Polonium: 钋
+Astatine: 砹
+Francium: 钫
+Radium: 镭
+Actinium: 锕
+Thorium: 钍
+Protactinium: 镤
+Uranium: 铀
+Neptunium: 镎
+Plutonium: 钚
+Americium: 镅
 
 #形容词
 Anti-: 反物质
@@ -14,17 +95,28 @@ Anti-: 反物质
 
 #液体
 Air: 空气
+Argon: 氩
 Bio Ethanol: 生物乙醇
 Biomass: 生物质
+Bromine: 溴
 Chlorine: 氯
 Creosote Oil: 木榴油
 Deuterium: 氘
 Fiery Blood: 炙热的血
 Fish Oil: 鱼油
+Fluriue: 氟
 Natural Gas: 天然气
 Glue: 胶水
+Iodine: 碘
 Diesel: 燃油
 Glyceryl Trinitrate: 硝化甘油
 Helium: 氦
 Holy Water: 圣水
+Hydrogen: 氢
+Krypton: 氪
+Mercury: 汞
+Neon: 氖
+Radon: 氡
+Tritium: 氚
+Xenon: 氙
 
