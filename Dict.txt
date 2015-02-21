@@ -1,8 +1,11 @@
+#Bugfix
+
 #物质
 
 #形容词
 Anti-: 反物质
 ' Plasma': '离子'
+'Enriched ': 浓缩
 #工具部分
 
 #工具
@@ -18,8 +21,10 @@ Creosote Oil: 木榴油
 Deuterium: 氘
 Fiery Blood: 炙热的血
 Fish Oil: 鱼油
-Diesel： 柴油
 Natural Gas: 天然气
 Glue: 胶水
+Diesel: 燃油
 Glyceryl Trinitrate: 硝化甘油
 Helium: 氦
+Holy Water: 圣水
+
