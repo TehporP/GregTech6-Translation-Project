@@ -1,5 +1,3 @@
-#删除所有空格
-' ': ''
 #物质
 
 #形容词
@@ -10,4 +8,9 @@
 
 #机器
 
-#液体
+#Fluid
+Bio Ethanol: 生物乙醇
+Biomass: 生物质
+Chlorine: 氯
+Creosote Oil: 木榴油
+Deuterium: 氘
