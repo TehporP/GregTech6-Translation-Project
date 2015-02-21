@@ -12,3 +12,5 @@ Dust: 粉末
 支持正则表达式
 
 字典替换器作者:wdhwg001
+
+字典替换器地址:http://libertydomemod.b0.upaiyun.com/index.html
