@@ -1,16 +1,25 @@
 #物质
 
 #形容词
-
+Anti-: 反物质
+' Plasma': '离子'
 #工具部分
 
 #工具
 
 #机器
 
-#Fluid
+#液体
+Air: 空气
 Bio Ethanol: 生物乙醇
 Biomass: 生物质
 Chlorine: 氯
 Creosote Oil: 木榴油
 Deuterium: 氘
+Fiery Blood: 炙热的血
+Fish Oil: 鱼油
+Diesel： 柴油
+Natural Gas: 天然气
+Glue: 胶水
+Glyceryl Trinitrate: 硝化甘油
+Helium: 氦
