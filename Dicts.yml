@@ -1,0 +1,350 @@
+#Bugfix
+
+#元素
+Hydrogen: 氢
+Nitrogen: 氮
+Nitrogen: 氮
+Helium: 氦
+Lithium: 锂
+Beryllium: 铍
+'Beryllium ': 铍
+Boron: 硼
+Carbon: 碳
+Oxygen: 氧
+Fluorine: 氟
+Neon: 氖
+Sodium: 钠
+Magnesium: 镁
+Aluminum: 铝
+Aluminium: 铝
+'Aluminium ': 铝
+Silicon: 硅
+Phosphorus: 磷
+Sulfur: 硫
+Chlorine: 氯
+Argon: 氩
+Potassium: 钾
+Calcium: 钙
+Scandium: 钪
+Titanium: 钛
+'Titanium ': 钛
+Vanadium: 钒
+Chromium: 铬
+'Chromium ': 铬
+Manganese: 锰
+'Manganese ': 锰
+Iron: 铁
+Cobalt: 钴
+'Cobalt ': 钴
+Nickel: 镍
+'Nickel ': 镍
+Copper: 铜
+Zinc: 锌
+Gallium: 镓
+Germanium: 锗
+Arsenic: 砷
+Selenium: 硒
+Bromine: 溴
+Krypton: 氪
+Rubidium: 铷
+Strontium: 锶
+Yttrium: 钇
+Zirconium: 锆
+Niobium: 铌
+Molybdenum: 钼
+'Molybdenum ': 钼
+Technetium: 碍 
+Ruthenium: 钌
+Rhodium: 铑
+Palladium: 钯
+'Palladium ': 钯
+Silver: 银
+Cadmium: 镉
+Indium: 铟
+Tin: 锡
+Antimony: 锑
+Tellurium: 碲
+Iodine: 碘
+Xenon: 氙
+Cesium: 铯
+Barium: 钡
+Lanthanum: 镧
+Cerium: 铈
+Praseodymium: 镨
+Neodymium: 钕
+'Neodymium ': 钕
+Promethium: 钷
+Samarium: 钐
+Europium: 铕
+Gadolinium: 钆
+Terbium: 铽
+Dysprosium: 镝
+Holmium: 钬
+Erbium: 铒
+Thulium: 铥
+Ytterbium: 镱
+Lutetium: 镥
+Hafnium: 铪
+Tantalum: 钽
+Tungsten: 钨
+'Tungsten ': 钨
+Rhenium: 铼
+Osmium: 锇
+'Osmium ': 锇
+Iridium: 铱
+'Iridium ': 铱
+Platinum: 铂
+'Platinum ': 铂
+Gold: 金
+'Gold ': 金
+Mercury: 汞
+Thallium: 铊
+Lead: 铅
+'Lead ': 铅
+Bismuth: 铋
+Polonium: 钋
+Astatine: 砹
+Radon: 氡
+Francium: 钫
+Radium: 镭
+Actinium: 锕
+Thorium: 钍
+Protactinium: 镤
+Uranium: 铀
+Neptunium: 镎
+Plutonium: 钚
+Americium: 镅
+Curium: 锔
+Berkelium: 锫
+Californium: 锎
+Einsteinium: 锿
+Fermium: 镄
+Mendelevium: 钔
+Nobelium: 锘
+Lawrencium: 铹
+Rutherfordium: 鑪
+Dubnium: Dubnium
+Seaborgium: Seaborgium
+Bohrium: Bohrium
+Hassium: Hassium
+Meitnerium: Meitnerium
+Darmstadtium: Darmstadtium
+Roentgenium: Roentgenium
+Ununbium: Ununbium
+Ununtrium: Uut
+Ununquadium: Uuq
+Ununhexium: Uuh
+Ununoctium: Uus
+Ununseptium: Uuo
+
+#液体
+Air: 空气
+Bio Ethanol: 生物乙醇
+Biomass: 生物质
+Chlorine: 氯
+Creosote Oil: 木榴油
+Deuterium: 氘
+Fiery Blood: 炙热的血
+Fish Oil: 鱼油
+Natural Gas: 天然气
+Glue: 胶水
+Diesel: 燃油
+Glyceryl Trinitrate: 硝化甘油
+Holy Water: 圣水
+Honey: 蜂蜜
+Coffee: 咖啡
+Juice: 汁
+Tea: 茶
+Wine: 葡萄酒
+Brew: 药水
+Rum: 朗姆酒
+Lemonade: 柠檬汽水
+Cider: 苹果酒
+'Golden ': 金
+'Mineral Water': 矿泉水
+Limoncello: 意大利柠檬甜酒
+Leninade: 列宁柠檬水
+Lait au cafe: 法式牛奶咖啡
+Hot Sauce: 辣酱
+Dark Cafe au lait: 欧蕾黑咖啡
+Cafe au lait: 欧蕾咖啡
+Purple Drink: 紫色饮料
+'Cave Johnsons Grenade ': Cave Johnsons的炸弹柠檬汁
+Chilly Sauce: 辣椒酱
+Glen McKenner: Glen McKenner(一个虚构的威士忌品牌)
+Hops Juice: 啤酒花汁
+Ice Tea: 冰红茶
+"Idun's ": 伊顿
+Notches Brew: Notches煲
+Pirate Brew: 海盗啤酒
+
+
+#物质
+'Rubber ': 橡胶
+'Plastic ': 塑料
+Wood: 木头
+'Wood ': 木头
+Flint: 燧石
+'Flint ': 燧石
+Ice: 冰
+Oil: 油
+Lubricant: 润滑剂
+Methane: 甲烷
+Milk: 牛奶
+Redstone: 红石
+Glass: 玻璃
+Blaze: 火焰棒
+'Wet Concrete': 湿的混凝土
+'Apple Juice': 苹果汁
+'Alcopops': 波普甜酒
+'Beer': 啤酒
+Concrete: 混凝土
+Cheese: 奶酪
+Charcoal: 木炭
+Chalk: 粉笔
+'Chromium Dioxide': 二氧化铬
+Bronze: 青铜
+Brick: 砖
+Brass: 黄铜
+BrickNether: 地狱砖
+Bloodstone: 鸡血石
+Ash: 灰
+
+Stone: 石头
+Amber: 琥珀
+Dragon Blood: 龙血
+Hot Frying Oil: 热油
+Heavy Oil: 重油
+Raw Oil: 原油
+Light Oil: 轻油
+Invar: 因瓦合金
+'Battery ': 电池
+Sugar: 糖
+Chili: 辣椒
+Cocoa: 可可
+Flour: 面粉
+Snow: 雪
+Quartz: 石英
+Certus Quartz: 赛特斯石英
+Charged Certus Quartz: 充能赛特斯石英
+
+'Infused Air ': 风 
+'Infused Fire ': 火
+'Infused Earth ': 地
+'Infused Water ': 水 
+'Infused Entropy ': 混沌
+'Infused Order ': 秩序
+Shard of Infused Air: 风之碎片
+Shard of Infused Fire: 火之碎片
+Shard of Infused Earth: 地之碎片
+Shard of Infused Water: 水之碎片
+Shard of Infused Entropy: 混沌碎片
+Shard of Infused Order: 秩序碎片
+
+#形容词
+Anti-: 反物质
+' Plasma': 离子
+'Enriched ': 浓缩
+'Small Pile of ': '小堆'
+'Purified ': 纯净
+'Tiny Pile of ': 小撮
+'Impure Pile of ': 含杂
+'Crushed ': 粉碎的
+'Molten ': 熔化的
+'Chocolate ': 巧克力
+'Stretched ': 加长
+'Lemon ': 柠檬
+'Weakening ': 虚弱 
+'Splash ': 喷溅
+'Strength ': 力量
+'Swiftness ': 迅捷
+'Regenerating ': 再生
+'Potato ': 马铃薯
+'Poisonous ': 剧毒
+'Night Vision ': 夜视
+'Invisible ': 隐身
+'Golden ': 金
+'Harming ': 伤害
+'Fire Resistant ': 抗火
+'Strong ': 加强
+'Grape ': 葡萄
+'Healing ': 治愈
+'Awkward ': 迟缓
+'Bitter ': 苦味
+'Mundane ': 平凡的
+'Crate of ': 一箱子
+'Nether ': 地狱
+Endstone: 末地石
+'Magnetic ': 磁化
+' Powder': 粉
+Powder: 粉
+
+#类型
+Ore: 矿
+ingots: 锭
+' Ingot': 锭
+Plate: 板
+Plates: 板
+Gear: 齿轮
+'Bronze ': 青铜
+'Steel ': 钢
+'Rose Gold ': 玫瑰金
+'Iron ': 铁
+Brass: 黄铜
+' Wires': 线缆
+' Dust': 粉
+Dust: 粉
+Sauce: 酱
+
+#工具部分
+' Heads': 头
+
+#工具
+'Hoe Head': 锄头
+
+#镐
+'Pickaxe Head': 镐头
+#犁
+'Plow Head': 犁头
+#锯
+'Saw ': 锯
+#螺丝起
+Tip: 前端
+'Screwdriver ': 螺丝起
+#Sense
+Blade: 刃
+
+#机器
+
+
+
+#箭
+Arrow: 箭
+'Light ': 轻质
+'Regular ': 常规
+
+#粉
+Dust: 粉
+
+#金属
+Steel: 钢
+
+#合金
+Alloy: 合金
+Bismuth Bronze: 铋青铜合金
+'Vibranium ': 钒合金
+'Naquadah ': 硅岩金属
+'Adamantium ': 艾德曼合金
+
+#气体：
+'Nitrogen Dioxide': 二氧化氮
+
+#颜色
+'Red ': 红色
+'Blue ': 蓝色
+'Black ': 黑色
+Black: 黑色
+'Dark ': 玄
+
+#物品组
+Main: 格雷科技
