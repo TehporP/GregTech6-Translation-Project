@@ -53,7 +53,7 @@ Zirconium: 锆
 Niobium: 铌
 Molybdenum: 钼
 'Molybdenum ': 钼
-Technetium: 碍 
+Technetium: 锝 
 Ruthenium: 钌
 Rhodium: 铑
 Palladium: 钯
@@ -272,7 +272,7 @@ Anti-: 反物质
 'Awkward ': 迟缓
 'Bitter ': 苦味
 'Mundane ': 平凡的
-'Crate of ': 板条箱:
+'Crate of ': '板条箱:'
 'Nether ': 地狱
 Endstone: 末地石
 'Magnetic ': 磁化
@@ -344,7 +344,7 @@ Bismuth Bronze: 铋青铜合金
 'Blue ': 蓝色
 'Black ': 黑色
 Black: 黑色
-'Dark ': 玄
+'Dark ': 黑
 
 #物品组
 Main: 格雷科技
