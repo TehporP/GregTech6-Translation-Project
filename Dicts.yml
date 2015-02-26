@@ -1,22 +1,20 @@
-
 #元素
 Hydrogen: 氢
-Nitrogen: 氮
-Nitrogen: 氮
 Helium: 氦
 Lithium: 锂
 Beryllium: 铍
 Boron: 硼
 Carbon: 碳
+Nitrogen: 氮
 Oxygen: 氧
 Fluorine: 氟
 Neon: 氖
 Sodium: 钠
 Magnesium: 镁
 Aluminum: 铝
-Aluminium: 铝
 Silicon: 硅
 Phosphorus: 磷
+Phosphor: 磷
 Sulfur: 硫
 Chlorine: 氯
 Argon: 氩
@@ -57,6 +55,7 @@ Tellurium: 碲
 Iodine: 碘
 Xenon: 氙
 Cesium: 铯
+Caesium: 铯
 Barium: 钡
 Lanthanum: 镧
 Cerium: 铈
@@ -94,6 +93,7 @@ Actinium: 锕
 Thorium: 钍
 Protactinium: 镤
 Uranium: 铀
+Uranium238: 铀-238
 Neptunium: 镎
 Plutonium: 钚
 Americium: 镅
@@ -113,12 +113,13 @@ Hassium: Hassium
 Meitnerium: Meitnerium
 Darmstadtium: Darmstadtium
 Roentgenium: Roentgenium
-Ununbium: Ununbium
+Copernicium: Copernicium
 Ununtrium: Uut
-Ununquadium: Uuq
-Ununhexium: Uuh
-Ununoctium: Uus
-Ununseptium: Uuo
+Flerovium: Flerovium
+Ununpentium: Uup
+Livermorium: Livermorium
+Ununseptium: Uus
+Ununoctium: Uuo
 
 #流体
 Air: 空气
@@ -136,7 +137,9 @@ Heavy Oil: 重油
 Raw Oil: 原油
 Light Oil: 轻油
 Seed Oil: 种子油
-Diesel: 燃油
+Very Heavy Oil: 超重油
+Diesel: 柴油
+Bio Diesel: 生物柴油
 Glyceryl Trinitrate: 硝化甘油
 Lubricant: 润滑剂
 Methane: 甲烷
@@ -144,6 +147,7 @@ Methane: 甲烷
 #食物
 Fish Oil: 鱼油
 Holy Water: 圣水
+Lava: 岩浆
 Honey: 蜂蜜
 Coffee: 咖啡
 Juice: 汁
@@ -178,29 +182,60 @@ Sugar: 糖
 Chili: 辣椒
 Cocoa: 可可
 Flour: 面粉
+Eggplant: 茄子
+Vodka: 伏特加
+CoffeeDust: 咖啡粉
+Mince Meat: 生肉糜
+Cooked Mince Meat: 熟肉糜
+Reed Water: 甘蔗汁
+Vinegar: 醋
 
-#矿产
+#矿物
 BrickNether: 地狱砖
-Bloodstone: 鸡血石
-Amber: 琥珀
-Jade: 翡翠
 Schist: 片岩
-Quartz: 石英
-Certus Quartz: 赛特斯石英
-Charged Certus Quartz: 充能赛特斯石英
 Bentonite: 膨润土
 Garnet: 石榴石
 Chrysocolla: 硅孔雀石
 Obsidian: 黑曜石
-Tantalite: 钽铁矿石
+Tantalite: 钽铁矿
 Chrysotile: 温石绵
 Uvarovite: 钙铬榴石
+Powellite: 钼钙矿
+Chromite: 铬铁矿
+Garnierite: 硅镁镍矿
+Glauconite: 海绿石
+Bluestone: 胆矾
+Limestone: 石灰岩
+Apatite: 磷灰石
+Sodalite: 方钠石
+Monazite: 独居石
+Quartzite: 石英岩
+Saltpeter: 硝石
+
+#宝石
+Bloodstone: 鸡血石
+Amber: 琥珀
+Jade: 翡翠
+Tanzanite: 坦桑石
+Quartz: 石英
+Jasper: 碧玉
+Topaz: 黄玉
+Sapphire: 蓝宝石
+Ruby: 红宝石
+Emerald: 绿宝石
+Diamond: 钻石
+Olivine: 橄榄石
+Opal: 猫眼石
+Amethyst: 紫水晶
 
 #材料
 Rubber: 橡胶
 Plastic: 塑料
 Wood: 木头
 Flint: 燧石
+Firestone: 燧石
+Chert: 燧石
+Fire: 火
 Ice: 冰
 Oil: 油
 Redstone: 红石
@@ -215,7 +250,23 @@ Snow: 雪
 Steeleaf: 钢叶
 Chalk: 粉笔
 Stone: 石头
-
+Peanutwood: 花生木
+Pulp: 纸浆
+Granite: 花岗岩
+Nether Star: 下界之星
+Gelatine: 明胶
+Glowstone: 萤石
+Niter: 硝石
+Enderpearl: 末影珍珠
+Endereye: 末影之眼
+Coal: 煤
+Lignite Coal: 褐煤
+Phosphate: 磷酸盐
+Rock Salt: 岩盐
+Salt: 盐
+Sandstone: 砂石
+Gravel: 沙砾
+Sand: 沙子
 #合金/化合物
 Chromium Dioxide: 二氧化铬
 Nitrogen Dioxide: 二氧化氮
@@ -225,6 +276,9 @@ Vibranium: 钒合金
 Naquadah: 硅岩金属
 Adamantium: 艾德曼合金
 Rose Gold: 玫瑰金
+Vanadium-Gallium: 钒镓合金
+Yttrium-Barium-Cuprate: 钇钡铜氧合金
+AluminumBrass: 铝黄铜
 
 #金属/俗名
 Bronze: 青铜
@@ -235,25 +289,37 @@ Brass: 黄铜
 Pewter: 白镴
 Stainless Steel: 不锈钢
 Damascus Steel: 大马士革钢
+HSLA-Steel: 高强度低合金钢
+Tungstensteel: 钨钢
+Chrome: 铬
 
 #名词
-Foils: 箔
+Foil: 箔
 Battery: 电池
 Wires: 线缆
 Dust: 粉
 Sauce: 酱
 Ore: 矿
-ingots: 锭
+ingot: 锭
 Ingot: 锭
-Plate: 板
 Plate: 板
 Gear: 齿轮
 Alloy: 合金
 Cell: 单元
-Arrow: 箭头
+Arrow: 箭
+Arrow Head: 箭头
 Crystal: 晶体
+Gem: 宝石
+Gemstone: 宝石原石
+Spring: 弹簧
+Nugget: 粒
+Rod: 杆
+Antimatter: 反物质
+Metal: 金属
+Rotor: 转子
+Ring: 环
 
-#神秘时代
+#其他Mod
 Infused Air: 风 
 Infused Fire: 火
 Infused Earth: 地
@@ -266,12 +332,94 @@ Shard of Infused Earth: 地之碎片
 Shard of Infused Water: 水之碎片
 Shard of Infused Entropy: 混沌碎片
 Shard of Infused Order: 秩序碎片
+Void Metal: 虚空金属
 
-#语句
-"Clears 1000 Liters of Fluid from Tanks": 从水槽中移除1000升液体
+Fluix: 福鲁伊克斯
+Certus Quartz: 赛特斯石英
+Charged Certus Quartz: 充能赛特斯石英
 
 #工具
 Buzzsaw: 圆锯
+Buzzsaw Blade: 圆锯锯刃
+Plow: 犁
+Plunger: 搋子
+Universal Spade: 万用铲
+Screwdriver: 螺丝刀
+Screw: 螺丝钉
+Hoe: 锄
+Shovel: 铲
+Knife: 刀
+Butchery Knife: 屠宰刀
+Scoop: 勺
+Wire Cutter: 剪线器
+Mortar: 研钵
+Crowbar: 撬棍
+Pickaxe: 镐
+File: 锉刀
+Wrench: 扳手
+Wrench Tips: 扳手顶
+Soft Hammer: 软锤
+JackHammer: 气锤
+Hammer: 锤子
+Chainsaw: 链锯
+Chainsaw Tip: 链锯顶
+Drill: 电钻
+Drill Tip: 电钻顶
+Sword: 剑
+Sword Blade: 剑刃
+Sense: 大镰刀
+Sense Blade: 大镰刀刀刃
+Branch Cutter: 剪枝器
+Axe: 斧
+Axe Head: 斧头
+Saw: 锯
+Saw Blades: 锯刃
+GregTech Sensor Card: 格雷科技传感器卡片
+Rolling Pin: 擀面杖
+
+#语句
+"Clears 1000 Liters of Fluid from Tanks": 从水槽中移除1000升液体
+"You need to recharge it": 你需要为其充电
+"Hold Leftclick to dismantle Machines": 按住左键以拆卸机器
+"Breaks Rocks into pieces": 将岩石破成碎片
+"Not suitable for harvesting Blocks": 不适合收割方块
+"Adjusts Covers and Machines": 调整机器和覆盖版
+"Dismounts Covers and Rotates Rails": 拆卸覆盖版和旋转铁轨
+"Used to get rid of Snow": 消灭积雪
+"Mobs cannot Spawn on this Block": 生物不会在这个方块上生成
+"Nuclear Control not installed": Nuclear Control未安装
+"Clears Items from Pipes": 清除管道中的物品
+"Usable for Prospecting": 不适于探矿
+"Activates and Deactivates Machines": 用于激活和关闭机器
+"Throw into Cauldron to clean this Item": 投入炼药锅以清洗
+"Rotates Blocks on Rightclick": 右键旋转方块
+"Because a Scythe doesn't make Sense": 小镰刀不够用了
+"Clears Essentia from Containers and Tubes": 清除容器和管道中的要素原质
+"Can till Dirt": 用于耕地
+"Rightclick to harvest Crop Sticks": 右键回收作物架
+
+#颜色
+Red: 红
+Blue: 蓝
+Green: 绿
+Yellow: 黄
+Black: 黑
+
+#量词
+2x: 2x
+3x: 3x
+4x: 4x
+5x: 5x
+Double: 双重
+Triple: 三重
+Quadruple: 四重
+Quintuple: 五重
+
+#技术性字符串
+'(Empty)': '(空白)'
+'Empty': 'Missing No.'
+'Any Sub-Block of this one': '任何该方块的子方块'
+'Any Sub-Item of this one': '任何该物品的子物品'
 
 #============================
 
@@ -310,9 +458,16 @@ Anti-: 反物质
 'Nether ': 地狱
 Endstone: 末地石
 'Magnetic ': 磁化
-' Powder': 粉
 Powder: 粉
-
-
-
+Blocks of: 块状
+Block of: 块状
+Centrifuged: 离心过的
+End: 末地
+Hot: 炙热的
+Dense: 致密的
+Small: 小型
+Chipped: 碎裂的
+Exquisite: 精美的
+Flawed: 有瑕疵的
+Flawless: 无瑕的
 
