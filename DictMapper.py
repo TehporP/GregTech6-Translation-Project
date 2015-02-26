@@ -1,29 +1,17 @@
 #!/bin/python3
+import yaml,re,sys
 
-FILE_EN="GregTech_en.txt"
-FILE_CN="GregTech_cn.txt"
-FILE_UNTRANSLATED="UnTranslated.txt"
-FILE_DICT="Dicts.yml"
-
-import yaml
-
-DICT=dict()
-MULTI_DICT=dict()
-d=yaml.load(open(FILE_DICT,'r',encoding='utf-8').read())
-for key in d:
-  key_strip=key.strip()
-  if key_strip.find(' ')==-1:
-    DICT[key_strip]=d[key]
-  else:
-    t=[x for x in key_strip.split(' ') if x!='']
-    if not t[0] in MULTI_DICT:
-      MULTI_DICT[t[0]]=list()
-    MULTI_DICT[t[0]].append((t,d[key],))
-UNTRANSLATED=set()
-
-def starts_with(string, prefix):
-  return string[:len(prefix)]==prefix
-
+def try_isotope(txt,dict1,dict2):
+  tmp=re.search(r"(.*?)-(\d+)",txt)
+  if tmp==None or len(tmp.groups())!=2: return ''
+  a=tmp.group(1)
+  b=tmp.group(2)
+  if a in dict1:
+    return dict1[a]+"-"+b
+  if a in dict2:
+    return dict2[a]+"-"+b
+  return ''
+  
 def translate_multi(words,x,l):
   for eng,chs in l:
     if x+len(eng)>len(words): continue
@@ -37,63 +25,157 @@ def translate_multi(words,x,l):
     if OK: return x+len(eng),chs
   return -1,None
 
-def is_isotope(word):
-  t=word.split('-')
-  try:
-    tmp=int(t[1])
-  except:
-    return False
-  return t[0] in DICT
+def translate(txt,pri,sec,unt):
+  if sec==None: sec=(dict(),dict(),dict())
+  re_groups=None
+  group_format=""
+  for t in [sec,pri]:
+    ok=False
+    for regex in t[2]:
+      res=re.search(regex,txt)
+      if res!=None:
+        re_groups=res.groups()
+        group_format=t[2][regex]
+        ok=True
+        break
+    if ok: break
+  if re_groups!=None:
+    tmp=list()
+    for t in re_groups: tmp.append(translate(t,pri,sec,unt))
+    return group_format.format(tmp)  
   
-def translate(txt):
-  if txt in DICT: return DICT[txt]
+  
+  if txt in sec[0]: return sec[0][txt]
+  if txt in pri[0]: return pri[0][txt]
   words=[x for x in txt.split(' ') if x!=""]
   translated_words=list()
   
   i=0
   while i<len(words):
     word=words[i]
-    
-    if word in MULTI_DICT:
-      next,p=translate_multi(words,i,MULTI_DICT[word])
+    if word in sec[1]:
+      next,p=translate_multi(words,i,sec[1][word])
       if next!=-1:
         i=next
         translated_words.append(p)
         continue
-    
+    if word in pri[1]:
+      next,p=translate_multi(words,i,pri[1][word])
+      if next!=-1:
+        i=next
+        translated_words.append(p)
+        continue
+        
     if word[:5]=='Anti-':
-      translated_words.append(DICT['Anti-'])
+      if 'Anti-' in sec[0]:
+        translated_words.append(sec[0]['Anti-'])
+      else:
+        translated_words.append(pri[0]['Anti-'])
       word=word[5:]
+    
+    dict1=sec[0]
+    dict2=pri[0]
     translated_word=''
-    if word in DICT:
-      translated_word=DICT[word]
-    elif (word.find('-')!=-1) and is_isotope(word):
-      translated_word=DICT[word.split('-')[0]]+"-"+word.split('-')[1]
-    elif (word[-1:]=='s') and (word[:-1] in DICT):
-      translated_word=DICT[word[:-1]]
-    if not translated_word=='':
+    
+    if word in dict1:
+      translated_word=dict1[word]
+    elif word in dict2:
+      translated_word=dict2[word]
+      
+    if (translated_word=='') and (word[-1]=='s'):
+        if word[:-1] in dict1:
+          translated_word=dict1[word[:-1]]
+        elif word[:-1] in dict2:
+          translated_word=dict2[word[:-1]]
+     
+    if (translated_word=='') and (word.find('-')!=-1):
+      translated_word=try_isotope(word,dict1,dict2)
+      
+    if translated_word!='':
       translated_words.append(translated_word)
     else:
       translated_words.append(' '+word)
-      UNTRANSLATED.add(word)
+      unt.add(word)
+      
     i+=1
-  
-
   return ''.join(translated_words)
-  
-lines=open(FILE_EN,'r',encoding='utf-8').read().split('\n')
-fcn=open(FILE_CN,'w')
-for line in lines:
-  if (not starts_with(line.strip(),"S:")) or starts_with(line.strip(),'S:"'):
-    fcn.write(line+'\n')
-    #print(line)
-  else:
-    head,tail=line.strip().split('=',1)
-    translated_tail=translate(tail)
-    fcn.write("    %s=%s\n"%(head,translated_tail))
-    #print("    %s=%s"%(head,translated_tail))
-fcn.close()
-with open(FILE_UNTRANSLATED,'w') as f:
-  for x in UNTRANSLATED:
-    f.write(x+"\n")
 
+def load_dict(rule_list):
+  words=dict()
+  multi=dict()
+  regex=dict()
+  for key_o in rule_list:
+    key=key_o.strip()
+    if key[0]=='#':
+      regex[key[1:]]=rule_list[key_o]
+    elif key[0]=='$':
+      continue
+    else:
+      word_l=[x for x in key.split(' ') if x!='']
+      if len(word_l)==1:
+        words[key]=rule_list[key_o]
+      else:
+        if not word_l[0] in multi:
+          multi[word_l[0]]=list()
+        multi[word_l[0]].append((word_l,rule_list[key_o],))
+  return (words,multi,regex,)
+      
+def main(argc,argv):
+  FILE_DICT=""
+  FILE_SRC=""
+  FILE_DST=""
+  FILE_LOG=""
+  if argc==5:
+    FILE_DICT=argv[1]
+    FILE_SRC=argv[2]
+    FILE_DST=argv[3]
+    FILE_LOG=argv[4]
+  elif argc==1:
+    FILE_DICT="Dicts.yml"
+    FILE_SRC="GregTech_en.txt"
+    FILE_DST="GregTech_cn.txt"
+    FILE_LOG="UnTranslated.txt"
+  else:
+    print('python3 DictMapper.py [Dictionary File] [Source File] [Translated File] [UnTranslated Strings]')
+    exit()
+  
+  with open(FILE_DICT,'r',encoding='UTF-8') as f:
+    raw_dict=yaml.load(f.read())
+  
+  GENERIC_DICT=load_dict(raw_dict)
+  GROUPED_DICT=dict()
+  for key in [x for x in raw_dict if x[0]=='$']:
+    GROUPED_DICT[key[1:]]=load_dict(raw_dict[key])
+    
+  with open(FILE_SRC,'r',encoding='UTF-8') as f:
+    lines=f.read().split('\n')
+  
+  dst=open(FILE_DST,'w',encoding='UTF-8')
+  untranslated=set()
+  
+  for line in lines:
+    if line.strip()[:2]!="S:":
+      dst.write(line+"\n")
+    else:
+      prefix,tmp=line.split(':',1)
+      group,text=tmp.split('=',1)
+      
+      GROUP_DICT=None
+      for m in GROUPED_DICT:
+        if re.match(m,group)!=None:
+          GROUP_DICT=GROUPED_DICT[m]
+          break
+      
+      translated_text=translate(text,GENERIC_DICT,GROUP_DICT,untranslated)
+      dst.write("%s:%s=%s\n"%(prefix,group,translated_text))
+  
+  dst.close()
+  
+  with open(FILE_LOG,'w',encoding='utf8') as f:
+    t=[x for x in untranslated if x.strip()!='']
+    t.sort()
+    for s in t:
+      f.write(s+"\n")
+  
+if __name__=="__main__":
+  main(len(sys.argv),sys.argv)
