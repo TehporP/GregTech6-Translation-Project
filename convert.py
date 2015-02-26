@@ -1,6 +1,7 @@
 #!/bin/python3
 
 FILE_EN="GregTech_en.txt"
+FILE_CN="GregTech_cn.txt"
 FILE_UNTRANSLATED="UnTranslated.txt"
 FILE_DICT="Dicts.yml"
 
@@ -8,7 +9,7 @@ import yaml
 
 DICT=dict()
 MULTI_DICT=dict()
-d=yaml.load(open(FILE_DICT,'r').read())
+d=yaml.load(open(FILE_DICT,'r',encoding='utf-8').read())
 for key in d:
   key_strip=key.strip()
   if key_strip.find(' ')==-1:
@@ -28,6 +29,8 @@ def translate_multi(words,x,l):
     if x+len(eng)>len(words): continue
     OK=True
     for i in range(0,len(eng)):
+      if (i==len(eng)-1) and (words[x+i][-1]=='s') and (words[x+i][:-1]==eng[i]):
+        break 
       if words[x+i]!=eng[i]:
         OK=False
         break
@@ -78,15 +81,18 @@ def translate(txt):
 
   return ''.join(translated_words)
   
-lines=open(FILE_EN,'r').read().split('\n')
+lines=open(FILE_EN,'r',encoding='utf-8').read().split('\n')
+fcn=open(FILE_CN,'w')
 for line in lines:
   if (not starts_with(line.strip(),"S:")) or starts_with(line.strip(),'S:"'):
-    print(line)
+    fcn.write(line+'\n')
+    #print(line)
   else:
     head,tail=line.strip().split('=',1)
     translated_tail=translate(tail)
-    print("    %s=%s"%(head,translated_tail))
-
+    fcn.write("    %s=%s\n"%(head,translated_tail))
+    #print("    %s=%s"%(head,translated_tail))
+fcn.close()
 with open(FILE_UNTRANSLATED,'w') as f:
   for x in UNTRANSLATED:
     f.write(x+"\n")
