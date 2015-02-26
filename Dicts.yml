@@ -42,7 +42,7 @@ Yttrium: 钇
 Zirconium: 锆
 Niobium: 铌
 Molybdenum: 钼
-Technetium: 锝 
+Technetium: 锝
 Ruthenium: 钌
 Rhodium: 铑
 Palladium: 钯
@@ -211,6 +211,74 @@ Sodalite: 方钠石
 Monazite: 独居石
 Quartzite: 石英岩
 Saltpeter: 硝石
+Oilsand: 油砂
+Pumice: 浮石
+Diatomite: 硅藻土
+Almandine: 铁铝榴石
+Alumite: 明矾石
+Andradite: 钙铁榴石
+Asbestos: 石棉
+Bauxite: 铝土矿
+Calcite: 方解石
+Cassiterite: 锡石
+Celestine: 天青石
+Chalcopyrite: 黄铜矿
+Cinnabar: 朱砂
+Cobaltite: 辉砷钴矿
+Galena: 方铅矿
+Grossular: 钙铝榴石
+Ilmenite: 钛铁矿
+Magnesite: 菱镁矿
+Magnetite: 磁铁矿
+Molybdenite: 辉钼矿
+Pyrite: 黄铁矿
+Pyrolusite: 软锰矿
+Pyrope: 镁铝榴石
+Scheelite: 白钨矿
+Spessartine: 锰铝榴石
+Sphalerite: 闪锌矿
+Stibnite: 辉锑矿
+Tetrahedrite: 黝铜矿
+Tungstate: 钨酸盐矿
+Uraninite: 晶质铀矿
+Wulfenite: 钼铅矿
+Perlite: 珍珠岩
+Borax: 硼砂
+Biotite: 黑云母
+Bastnasite: 氟碳铈矿
+Pentlandite: 镍黄铁矿
+Spodumene: 锂辉矿
+Pollucite: 铯榴石
+Lepidolite: 锂云母
+Vermiculite: 蛭石
+Pitchblende: 沥青铀矿
+Malachite: 孔雀石
+Mirabilite: 芒硝
+Mica: 云母
+Trona: 天然碱
+Barite: 重晶石
+Gypsum: 石膏
+Alunite: 明矾石
+Dolomite: 白云岩
+Wollastonite: 硅灰石
+Zeolite: 沸石
+Kyanite: 蓝晶石
+Kaolinite: 高岭石
+Talc: 滑石
+Soapstone: 皂石
+Gneiss: 片麻岩
+Greenstone: 绿岩
+Greywacke: 杂砂岩
+Graphite: 石墨
+Graphene: 石墨烯
+Gabbro: 辉长岩
+Komatiite: 科马提岩
+Siltstone: 粉砂岩
+Rhyolite: 流纹岩
+Epidote: 绿帘石
+Emery: 金刚砂
+Shale: 页岩
+Eclogite: 榴辉岩
 
 #宝石
 Bloodstone: 鸡血石
@@ -267,6 +335,8 @@ Salt: 盐
 Sandstone: 砂石
 Gravel: 沙砾
 Sand: 沙子
+BioMass: 生物质
+
 #合金/化合物
 Chromium Dioxide: 二氧化铬
 Nitrogen Dioxide: 二氧化氮
@@ -318,12 +388,13 @@ Antimatter: 反物质
 Metal: 金属
 Rotor: 转子
 Ring: 环
+Bolt: 螺栓
 
 #其他Mod
-Infused Air: 风 
+Infused Air: 风
 Infused Fire: 火
 Infused Earth: 地
-Infused Water: 水 
+Infused Water: 水
 Infused Entropy: 混沌
 Infused Order: 秩序
 Shard of Infused Air: 风之碎片
@@ -342,25 +413,34 @@ Charged Certus Quartz: 充能赛特斯石英
 Buzzsaw: 圆锯
 Buzzsaw Blade: 圆锯锯刃
 Plow: 犁
+Plow Head: 犁头
 Plunger: 搋子
 Universal Spade: 万用铲
+Universal Spade Head: 万用铲头
 Screwdriver: 螺丝刀
+Screwdriver Tip: 螺丝刀刀头
 Screw: 螺丝钉
 Hoe: 锄
+Hoe Head: 锄头
 Shovel: 铲
+Shovel Head: 铲头
 Knife: 刀
-Butchery Knife: 屠宰刀
+Butchery Knife: 屠刀
 Scoop: 勺
 Wire Cutter: 剪线器
 Mortar: 研钵
 Crowbar: 撬棍
 Pickaxe: 镐
+Pickaxe Head: 镐头
 File: 锉刀
+File Head: 锉刀刀头
 Wrench: 扳手
 Wrench Tips: 扳手顶
 Soft Hammer: 软锤
 JackHammer: 气锤
 Hammer: 锤子
+Hammer Head: 锤头
+
 Chainsaw: 链锯
 Chainsaw Tip: 链锯顶
 Drill: 电钻
@@ -373,7 +453,7 @@ Branch Cutter: 剪枝器
 Axe: 斧
 Axe Head: 斧头
 Saw: 锯
-Saw Blades: 锯刃
+Saw Blade: 锯刃
 GregTech Sensor Card: 格雷科技传感器卡片
 Rolling Pin: 擀面杖
 
@@ -382,7 +462,7 @@ Rolling Pin: 擀面杖
 "You need to recharge it": 你需要为其充电
 "Hold Leftclick to dismantle Machines": 按住左键以拆卸机器
 "Breaks Rocks into pieces": 将岩石破成碎片
-"Not suitable for harvesting Blocks": 不适合收割方块
+"Not suitable for harvesting Blocks": 不适合采集方块
 "Adjusts Covers and Machines": 调整机器和覆盖版
 "Dismounts Covers and Rotates Rails": 拆卸覆盖版和旋转铁轨
 "Used to get rid of Snow": 消灭积雪
@@ -397,6 +477,73 @@ Rolling Pin: 擀面杖
 "Clears Essentia from Containers and Tubes": 清除容器和管道中的要素原质
 "Can till Dirt": 用于耕地
 "Rightclick to harvest Crop Sticks": 右键回收作物架
+"Can also harvest Ice": 也可以用于采集冰块
+"Crushes Ores instead of harvesting them": "得到粉碎的矿石"
+
+
+'$^"Book\.Microwave Oven Manual(.*?)"$': #微波炉手册
+  'Microwave Oven Manual': '微波炉手册'
+  'Congratulations, you inserted a random seemingly empty Book into the Microwave and these Letters appeared out of nowhere.': '恭喜！你将一本表面上空空如也的书塞进了微波炉，但是一些字符神奇地显示了出来。'
+  "You just got a Microwave Oven and asked yourself 'why do I even need it?'.": "你刚刚获得了一台微波炉，然后扪心自问“我为什么会需要这玩意儿？”"
+  "It's simple, the Microwave can cook for just 128 EU and at an insane speed.": "显而易见的，一台微波炉只要128EU的电力即可工作，并且能以疯狂的速度烹饪食物。"
+  "Not even a normal E-furnace can do it that fast and cheap!": "你再也不能找出什么别的机器能将这件事做得又好又快又便宜了。"
+  'This is the cheapest and fastest way to cook for you.': "它是你烹饪食物最经济快捷的方式了。"
+  'That is why the Microwave Oven can be found in almost every Kitchen (see www.youwannabuyakitchen.ly).': "这就是为什么几乎每个厨房都有一台微波炉的原因了 (见 www.youwannabuyakitchen.ly)。"
+  'Long time exposure to Microwaves can cause Cancer,': "长时间暴露在微波下会导致癌症，"
+  'but we doubt Steve lives long enough to die because of that.': "但是我们怀疑Steve活不到他真的死于癌症的那一天。"
+  'Do not insert any Metals. It might result in an Explosion.': '不要放入任何金属！会爆炸的！'
+  'Do not dry Animals with it. It will result in a Hot Dog, no matter which Animal you put into it.': '不要用它来干燥你的动物，你会得到一份热狗，不管你放进去的是什么动物。'
+  'Do not insert inflammable Objects. The Oven will catch on Fire.': '不要放入不可燃物品！炉子会着火的！'
+  "Do not insert Explosives such as Eggs. Just don't.": '不要放入爆炸物！比如鸡蛋。也不要问那么多为什么。'
+
+'$^"Book\.Printer Manual V2\.0(.*?)"$':
+  "Printer Manual V2.0": ""
+  "This Manual explains the different Functionalities the GregTech Printing Factory has built in,": ""
+  "which are not in NEI. Most got NEI Support now, but there is still some left without it.": ""
+  "1. Coloring Items and Blocks: You know those Crafting Recipes,": ""
+  "which have a dye surrounded by 8 Item to dye them?": ""
+  "Or the ones which have just one Item and one Dye in the Grid?": ""
+  "Those two Recipe Types can be cheaply automated using the Printer.": ""
+  "The Colorization Functionality even optimizes the Recipes,": ""
+  "which normally require 8 Items + 1 Dye to 1 Item and an 8th of the normally used Dye in Fluid Form,": ""
+  "isn't that awesome?": ""
+  "2. Copying Books: This Task got slightly harder.": ""
+  "The first Step is putting the written and signed Book inside the Scanner with a Data Stick ready to receive the Data.": ""
+  "Now insert the Stick into the Data Slot of the Printer and add 3 pieces of Paper together with 144 Liters of actual Ink Fluid.": ""
+  "Water mixed and chemical Dyes won't work on Paper without messing things up!": ""
+  "You got a stack of Pages for your new Book, just put them into the Assembler": ""
+  "with some Glue and a piece of Leather for the Binding,": ""
+  "and you receive an identical copy of the Book, which would stack together with the original.": ""
+  "3. Renaming Items: This Functionality is no longer Part of the Printer.": ""
+  "There is now a Name Mold for the Forming Press to imprint a Name into an Item,": ""
+  "just rename the Mold in an Anvil and use it in the Forming Press on any Item.": ""
+  "4. Crafting of Books, Maps, Nametags etc etc etc:": ""
+  "Those Recipes moved to other Machines, just look them up in NEI.": ""
+
+'$^"Book\.Punch Card Manual.*?"$':
+  'Punch Card Manual V0.0': ""
+  "This Manual will explain the Functionality of the Punch Cards,": ""
+  "once they are fully implemented.": ""
+  "And no, they won't be like the IRL Punch Cards.": ""
+  "This is just a current Idea Collection.": ""
+  "(i1&&i2)?o1=15:o1=0;=10": ""
+  "ignore all Whitespace Characters, use Long for saving the Numbers": ""
+  "&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F": ""
+  "'0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'": ""
+  "',' is just a separator for multiple executed Codes in a row.": ""
+  "';' means that the Program waits until the next tick before continuing.": ""
+  "';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1.": ""
+  "And ';=0' or anything < 0 will default to 0.": ""
+  "If the '=' Operator is used within Brackets, it returns the value the variable has been set to.": ""
+  "The Program saves the Char Index of the current Task,": ""
+  "the 10 Variables (which reset to 0 as soon as the Program Loop stops),": ""
+  "the 10 Member Variables and the remaining waiting Time in its NBT.": ""
+  "A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since Redstone has only 4 Bits.": ""
+  "For implementing Loops you just need 1 Punch Card per Loop,": ""
+  "these Cards can restart once they are finished,": ""
+  "depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.": ""
+  "A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.": ""
+  "made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.": ""
 
 #颜色
 Red: 红
@@ -418,8 +565,64 @@ Quintuple: 五重
 #技术性字符串
 '(Empty)': '(空白)'
 'Empty': 'Missing No.'
+'(HV)': "(高压)"
+'(LV)': "(低压)"
+'(MV)': "(中压)"
 'Any Sub-Block of this one': '任何该方块的子方块'
+'Any Sub Block of this one': '任何该方块的子方块'
 'Any Sub-Item of this one': '任何该物品的子物品'
+Generated Item: 生成的物品
+
+
+#合成表表头
+'$^gt\.recipe.*?$':
+  Alloy Smelter: 合金炉
+  Arc Furnace: 电弧炉
+  Assembler: 组装机
+  Blast Furnace: 高炉
+  Brewing Machine: 酿造炉
+  Ore Byproduct List: 矿物副产品列表
+  Canning Machine: 灌装机
+  Centrifuge: 离心机
+  Chemical Bath: 化学浸洗器
+  Chemical Reactor: 化学反应器
+  CNC Machine: 数控机床
+  Distillation Tower: 蒸馏塔
+  Distillery: 蒸馏酿造
+  Electrolyzer: 电解器
+  Electromagnetic Separator: 电磁离析器
+  Fermenter: 发酵器
+  Fluid Canning Machine: 流体罐装机
+  Fluid Extractor: 液体提取器
+  Fluid Heater: 流体加热器
+
+  '#^Fluid (Naquadah) Reactor$': "液态{0[0]}反应堆"
+  '#^Large (Naquadah) Reactor$': "大型{0[0]}反应堆"
+  '#^Small (Naquadah) Reactor$': "小型{0[0]}反应堆"
+
+  Fluid Solidifier: 液体固化器
+  Fusion Reactor: 聚变反应器
+  Hammer: 锤子
+  Implosion Compressor: 聚爆压缩机
+  Precision Laser Engraver: 高精度镭射雕刻机
+  Lathe: 车床
+  Microwave: 微波
+  Plasma Arc Furnace: 等离子电弧炉
+  Electromagnetic Polarizer: 电磁极化机
+  Printer: 打印机
+  Scanner: 扫描仪
+  Vacuum Freezer: 真空冷冻器
+  Wiremill: 线缆轧制机
+
+  Compressor: 压缩机
+  Extractor: 提取器
+  Ore Washer: 洗矿场
+  Recycler: 回收机
+  Thermal Centrifuge: 热能离心机
+
+  Furnace: 炉子
+
+
 
 #============================
 
@@ -436,7 +639,7 @@ Anti-: 反物质
 'Chocolate ': 巧克力
 'Stretched ': 加长
 'Lemon ': 柠檬
-'Weakening ': 虚弱 
+'Weakening ': 虚弱
 'Splash ': 喷溅
 'Strength ': 力量
 'Swiftness ': 迅捷
@@ -470,4 +673,3 @@ Chipped: 碎裂的
 Exquisite: 精美的
 Flawed: 有瑕疵的
 Flawless: 无瑕的
-
