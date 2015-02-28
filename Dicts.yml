@@ -411,6 +411,7 @@ Biomass: 生物质
 Chlorine: 氯
 Creosote Oil: 木榴油
 Deuterium: 氘
+Tritium: 氚
 Fiery Blood: 炙热的血
 Natural Gas: 天然气
 Glue: 胶水
@@ -426,6 +427,11 @@ Bio Diesel: 生物柴油
 Glyceryl Trinitrate: 硝化甘油
 Lubricant: 润滑剂
 Methane: 甲烷
+Mc Guffium 239: Mc Guffium 239
+Steam: 蒸汽
+Creosote: 杂酚油
+Ethanol: 乙醇
+Glyceryl: 甘油
 
 #食物
 Fish Oil: 鱼油
@@ -433,10 +439,10 @@ Holy Water: 圣水
 Lava: 岩浆
 Honey: 蜂蜜
 Coffee: 咖啡
+Dark Coffee: 清咖啡
 Juice: 汁
 Tea: 茶
 Wine: 葡萄酒
-Brew: 药水
 Rum: 朗姆酒
 Lemonade: 柠檬汽水
 Cider: 苹果酒
@@ -460,6 +466,7 @@ Milk: 牛奶
 Apple Juice: 苹果汁
 Alcopops: 波普甜酒
 Beer: 啤酒
+Dark Beer: 黑啤
 Cheese: 奶酪
 Sugar: 糖
 Chili: 辣椒
@@ -472,6 +479,13 @@ Mince Meat: 生肉糜
 Cooked Mince Meat: 熟肉糜
 Reed Water: 甘蔗汁
 Vinegar: 醋
+Chocolate: 巧克力
+Lemon: 柠檬
+Potato: 马铃薯
+Grape: 葡萄
+Salty Water: 盐水
+Scotch: 苏格兰威士忌
+Sweet Tea: 甜茶
 
 #矿物
 BrickNether: 地狱砖
@@ -562,6 +576,10 @@ Epidote: 绿帘石
 Emery: 金刚砂
 Shale: 页岩
 Eclogite: 榴辉岩
+Andesite: 安山岩
+Basalt: 玄武岩
+Feldspar: 长石
+Limonite: 褐铁矿
 
 #宝石
 Bloodstone: 鸡血石
@@ -578,6 +596,10 @@ Diamond: 钻石
 Olivine: 橄榄石
 Opal: 猫眼石
 Amethyst: 紫水晶
+Aquamarine: 海蓝宝石
+Agate: 玛瑙
+Citrine: 黄水晶
+Cyanite: 蓝晶石
 
 #材料
 Rubber: 橡胶
@@ -598,6 +620,7 @@ Concrete: 混凝土
 Charcoal: 木炭
 Brick: 砖
 Ash: 灰
+Ashes: 灰
 Snow: 雪
 Steeleaf: 钢叶
 Chalk: 粉笔
@@ -608,6 +631,7 @@ Granite: 花岗岩
 Nether Star: 下界之星
 Gelatine: 明胶
 Glowstone: 萤石
+Fluorite: 萤石
 Niter: 硝石
 Enderpearl: 末影珍珠
 Endereye: 末影之眼
@@ -619,11 +643,42 @@ Salt: 盐
 Sandstone: 砂石
 Gravel: 沙砾
 Sand: 沙子
+Mineral Sand: 矿砂
 BioMass: 生物质
+Neutron: 中子
+Neutrino: 中微子
+Photon: 光子
+AntiElectron: 正电子
+Electron: 电子
+Nitro: 硝基
+Sulfuric Acid: 硫酸
+Ammonium: 铵
+Bitumen: 沥青
+Cardboard: 瓦楞纸
+Clay: 粘土
+Coral: 珊瑚
+Entropy: 熵
+Flax: 亚麻
+Gunpowder: 火药
+Lapis: 青金石
+Wheat: 小麦
+Endstone: 末地石
+Cobblestone: 圆石
+Ironwood: 硬木
+Fullers Earth: 漂白土
 
 #合金/金属/化合物
 Chromium Dioxide: 二氧化铬
 Nitrogen Dioxide: 二氧化氮
+Sodium Persulfate: 过硫化钠
+Niobium Nitride: 氮化铌
+Nitrogen Tetroxide: 四氧化二氮
+Sodium Oxide: 氧化钠
+Osmium Tetroxide: 四氧化锇
+Silicon Dioxide: 二氧化硅
+Sodium Peroxide: 过氧化钠
+Sodium Sulfide: 硫化钠
+
 Invar: 因瓦合金
 Bismuth Bronze: 铋青铜合金
 Vibranium: 钒合金
@@ -638,6 +693,9 @@ Electrum: 金银合金
 Bronze: 青铜
 Steel: 钢
 Iron: 铁
+Pig Iron: 生铁
+Wrought Iron: 熟铁
+
 Bronze: 青铜
 Brass: 黄铜
 Pewter: 白镴
@@ -653,18 +711,16 @@ Kanthal: 铁铬铝合金
 Magnalium: 镁铝合金
 Mithril: 秘银
 Osmiridium: 铱锇合金
+Carborundum: 碳化硅
 
 #名词
-Foil: 箔
 Battery: 电池
-Wires: 线缆
 Dust: 粉
 Sauce: 酱
-Ore: 矿
+Ore: 矿石
 ingot: 锭
 Ingot: 锭
 Plate: 板
-Gear: 齿轮
 Alloy: 合金
 Cell: 单元
 Arrow: 箭
@@ -672,14 +728,19 @@ Arrow Head: 箭头
 Crystal: 晶体
 Gem: 宝石
 Gemstone: 宝石原石
-Spring: 弹簧
-Nugget: 粒
-Rod: 杆
 Antimatter: 反物质
 Metal: 金属
+Boiler: 锅炉
+
 Rotor: 转子
 Ring: 环
 Bolt: 螺栓
+Foil: 箔
+Wire: 线缆
+Nugget: 粒
+Rod: 杆
+Gear: 齿轮
+Spring: 弹簧
 
 #其他Mod
 Infused Air: 风
@@ -731,7 +792,6 @@ Soft Hammer: 软锤
 JackHammer: 气锤
 Hammer: 锤子
 Hammer Head: 锤头
-
 Chainsaw: 链锯
 Chainsaw Tip: 链锯链条
 Drill: 电钻
@@ -864,7 +924,8 @@ Quintuple: 五重
 'Any Sub-Block of this one': '任何该方块的子方块'
 'Any Sub Block of this one': '任何该方块的子方块'
 'Any Sub-Item of this one': '任何该物品的子物品'
-Generated Item: 生成的物品
+'Generated Item': 生成的物品
+'NULL': NULL
 
 
 #合成表表头
@@ -888,24 +949,31 @@ Generated Item: 生成的物品
   Fluid Canning Machine: 流体罐装机
   Fluid Extractor: 液体提取器
   Fluid Heater: 流体加热器
-
   '#^Fluid (Naquadah) Reactor$': "液态{0[0]}反应堆"
   '#^Large (Naquadah) Reactor$': "大型{0[0]}反应堆"
   '#^Small (Naquadah) Reactor$': "小型{0[0]}反应堆"
-
   Fluid Solidifier: 液体固化器
   Fusion Reactor: 聚变反应器
-  Hammer: 锤子
+  Hammer: 锤子/锻造锤
   Implosion Compressor: 聚爆压缩机
   Precision Laser Engraver: 高精度镭射雕刻机
   Lathe: 车床
-  Microwave: 微波
+  Microwave: 微波炉子
   Plasma Arc Furnace: 等离子电弧炉
   Electromagnetic Polarizer: 电磁极化机
   Printer: 打印机
   Scanner: 扫描仪
   Vacuum Freezer: 真空冷冻器
   Wiremill: 线缆轧制机
+  Cutting Saw: 切割机
+  Diesel Generator Fuel: 柴油发电机燃料
+  Gas Turbine Fuel: 燃气涡轮燃料
+  Forming Press: 压印机
+  Semifluid Boiler Fuel: 半流体锅炉燃料
+  Thermal Generator Fuel: 火力发电机燃料
+  Autoclave: 高压釜
+  Pulverization: 粉碎
+  Slicer: 切片机 
 '$^ic\.recipe.*?$':
   Compressor: 压缩机
   Extractor: 提取器
@@ -915,45 +983,22 @@ Generated Item: 生成的物品
 '$^mc\.recipe.*?$':
   Furnace: 炉子
 
-
-
-#============================
-
 #形容词
 Anti-: 反物质
-' Plasma': 离子
-'Enriched ': 浓缩
-'Small Pile of ': '小堆'
-'Purified ': 纯净
-'Tiny Pile of ': 小撮
-'Impure Pile of ': 含杂
-'Crushed ': 粉碎的
-'Molten ': 熔化的
-'Chocolate ': 巧克力
-'Stretched ': 加长
-'Lemon ': 柠檬
-'Weakening ': 虚弱
-'Splash ': 喷溅
-'Strength ': 力量
-'Swiftness ': 迅捷
-'Regenerating ': 再生
-'Potato ': 马铃薯
-'Poisonous ': 剧毒
-'Night Vision ': 夜视
-'Invisible ': 隐身
-'Golden ': 金
-'Harming ': 伤害
-'Fire Resistant ': 抗火
-'Strong ': 加强
-'Grape ': 葡萄
-'Healing ': 治愈
-'Awkward ': 迟缓
-'Bitter ': 苦味
-'Mundane ': 平凡的
-'Crate of ': '板条箱:'
-'Nether ': 地狱
-Endstone: 末地石
-'Magnetic ': 磁化
+Plasma: 离子
+Enriched: 浓缩
+Small Pile of: 小堆
+Purified: 纯净的
+Tiny Pile of: 小撮
+Impure: 含杂的
+Pile of: 一堆
+Crushed: 粉碎的
+Molten: 熔化的
+Strong: 加强
+Bitter: 苦味
+Crate of: '板条箱:'
+Nether: 地狱
+Magnetic: 磁化
 Powder: 粉
 Blocks of: 块状
 Block of: 块状
@@ -966,3 +1011,26 @@ Chipped: 碎裂的
 Exquisite: 精美的
 Flawed: 有瑕疵的
 Flawless: 无瑕的
+
+#药水相关
+'$.*?potion.*':
+  Stretched: 加长
+  Weakening: 虚弱
+  Splash: 喷溅
+  Strength: 力量
+  Swiftness: 迅捷
+  Regenerating: 再生
+  Night Vision: 夜视
+  Invisible: 隐身
+  Golden: 金
+  Harming: 伤害
+  Fire Resistant: 抗火
+  Healing: 治愈
+  Awkward: 迟缓
+  Mundane: 平凡的
+  Poisonous: 剧毒
+  Brew: 药水
+  Thick: 浑浊的
+  Lame: 迟缓
+  Fishy: 水肺
+  
