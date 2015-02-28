@@ -12,6 +12,7 @@ Neon: 氖
 Sodium: 钠
 Magnesium: 镁
 Aluminum: 铝
+Aluminium: 铝
 Silicon: 硅
 Phosphorus: 磷
 Phosphor: 磷
@@ -114,12 +115,294 @@ Meitnerium: Meitnerium
 Darmstadtium: Darmstadtium
 Roentgenium: Roentgenium
 Copernicium: Copernicium
-Ununtrium: Uut
+Ununtrium: 113号元素(Uut)
 Flerovium: Flerovium
-Ununpentium: Uup
+Ununpentium: 115号元素(Uup)
 Livermorium: Livermorium
-Ununseptium: Uus
-Ununoctium: Uuo
+Ununseptium: 117号元素(Uus)
+Ununoctium: 118号元素(Uuo)
+
+Ununennium: 119号元素(Uue)
+Unbinilium: 120号元素(Ubn)
+Unbiunium: 121号元素(Ubu)
+Unbibium: 122号元素(Ubb)
+Unbitrium: 123号元素(Ubt)
+Unbiquadium: 124号元素(Ubq)
+Unbipentium: 125号元素(Ubp)
+Unbihexium: 126号元素(Ubx)
+Unbiseptium: 127号元素(Ubs)
+Unbioctium: 128号元素(Ubo)
+Unbiennium: 129号元素(Ube)
+Untrinilium: 130号元素(Utn)
+Untriunium: 131号元素(Utu)
+Untribium: 132号元素(Utb)
+Untritrium: 133号元素(Utt)
+Untriquadium: 134号元素(Utq)
+Untripentium: 135号元素(Utp)
+Untrihexium: 136号元素(Uth)
+Untriseptium: 137号元素(Uts)
+Untrioctium: 138号元素(Uto)
+Untriennium: 139号元素(Ute)
+Unquadnilium: 140号元素(Uqn)
+Unquadunium: 141号元素(Uqu)
+Unquadbium: 142号元素(Uqb)
+Unquadtrium: 143号元素(Uqt)
+Unquadquadium: 144号元素(Uqq)
+Unquadpentium: 145号元素(Uqp)
+Unquadhexium: 146号元素(Uqh)
+Unquadseptium: 147号元素(Uqs)
+Unquadoctium: 148号元素(Uqo)
+Unquadennium: 149号元素(Uqe)
+Unpentnilium: 150号元素(Upn)
+Unpentunium: 151号元素(Upu)
+Unpentbium: 152号元素(Upb)
+Unpenttrium: 153号元素(Upt)
+Unpentquadium: 154号元素(Upq)
+Unpentpentium: 155号元素(Upp)
+Unpenthexium: 156号元素(Uph)
+Unpentseptium: 157号元素(Ups)
+Unpentoctium: 158号元素(Upo)
+Unpentennium: 159号元素(Upe)
+Unhexnilium: 160号元素(Uhn)
+Unhexunium: 161号元素(Uhu)
+Unhexbium: 162号元素(Uhb)
+Unhextrium: 163号元素(Uht)
+Unhexquadium: 164号元素(Uhq)
+Unhexpentium: 165号元素(Uhp)
+Unhexhexium: 166号元素(Uhh)
+Unhexseptium: 167号元素(Uhs)
+Unhexoctium: 168号元素(Uho)
+Unhexennium: 169号元素(Uhe)
+Unseptnilium: 170号元素(Usn)
+Unseptunium: 171号元素(Usu)
+Unseptbium: 172号元素(Usb)
+Unsepttrium: 173号元素(Ust)
+Unseptquadium: 174号元素(Usq)
+Unseptpentium: 175号元素(Usp)
+Unsepthexium: 176号元素(Ush)
+Unseptseptium: 177号元素(Uss)
+Unseptoctium: 178号元素(Uso)
+Unseptennium: 179号元素(Use)
+Unoctnilium: 180号元素(Uon)
+Unoctunium: 181号元素(Uou)
+Unoctbium: 182号元素(Uob)
+Unocttrium: 183号元素(Uot)
+Unoctquadium: 184号元素(Uoq)
+Unoctpentium: 185号元素(Uop)
+Unocthexium: 186号元素(Uoh)
+Unoctseptium: 187号元素(Uos)
+Unoctoctium: 188号元素(Uoo)
+Unoctennium: 189号元素(Uoe)
+Unennilium: 190号元素(Uen)
+Unennunium: 191号元素(Ueu)
+Unennbium: 192号元素(Ueb)
+Unenntrium: 193号元素(Uet)
+Unennquadium: 194号元素(Ueq)
+Unennpentium: 195号元素(Uep)
+Unennhexium: 196号元素(Ueh)
+Unennseptium: 197号元素(Ues)
+Unennoctium: 198号元素(Ueo)
+Unennennium: 199号元素(Uee)
+Binilnilium: 200号元素(Bnn)
+Binilunium: 201号元素(Bnu)
+Binilbium: 202号元素(Bnb)
+Biniltrium: 203号元素(Bnt)
+Binilquadium: 204号元素(Bnq)
+Binilpentium: 205号元素(Bnp)
+Binilhexium: 206号元素(Bnh)
+Binilseptium: 207号元素(Bns)
+Biniloctium: 208号元素(Bno)
+Binilennium: 209号元素(Bne)
+Biunnilium: 210号元素(Bun)
+Biununium: 211号元素(Buu)
+Biunbium: 212号元素(Bub)
+Biuntrium: 213号元素(But)
+Biunquadium: 214号元素(Buq)
+Biunpentium: 215号元素(Bup)
+Biunhexium: 216号元素(Buh)
+Biunseptium: 217号元素(Bus)
+Biunoctium: 218号元素(Buo)
+Biunennium: 219号元素(Bue)
+Bibinilium: 220号元素(Bbn)
+Bibiunium: 221号元素(Bbu)
+Bibibium: 222号元素(Bbb)
+Bibitrium: 223号元素(Bbt)
+Bibiquadium: 224号元素(Bbq)
+Bibipentium: 225号元素(Bbp)
+Bibihexium: 226号元素(Bbh)
+Bibiseptium: 227号元素(Bbs)
+Bibioctium: 228号元素(Bbo)
+Bibiennium: 229号元素(Bbe)
+Bitrinilium: 230号元素(Btn)
+Bitriunium: 231号元素(Btu)
+Bitribium: 232号元素(Btb)
+Bitritrium: 233号元素(Btt)
+Bitriquadium: 234号元素(Btq)
+Bitripentium: 235号元素(Btp)
+Bitrihexium: 236号元素(Bth)
+Bitriseptium: 237号元素(Bts)
+Bitrioctium: 238号元素(Bto)
+Bitriennium: 239号元素(Bte)
+Biquadnilium: 240号元素(Bqn)
+Biquadunium: 241号元素(Bqu)
+Biquadbium: 242号元素(Bqb)
+Biquadtrium: 243号元素(Bqt)
+Biquadquadium: 244号元素(Bqq)
+Biquadpentium: 245号元素(Bqp)
+Biquadhexium: 246号元素(Bqh)
+Biquadseptium: 247号元素(Bqs)
+Biquadoctium: 248号元素(Bqo)
+Biquadennium: 249号元素(Bqe)
+Bipentnilium: 250号元素(Bpn)
+Bipentunium: 251号元素(Bpu)
+Bipentbium: 252号元素(Bpb)
+Bipenttrium: 253号元素(Bpt)
+Bipentquadium: 254号元素(Bpq)
+Bipentpentium: 255号元素(Bpp)
+Bipenthexium: 256号元素(Bph)
+Bipentseptium: 257号元素(Bps)
+Bipentoctium: 258号元素(Bpo)
+Bipentennium: 259号元素(Bpe)
+Bihexnilium: 260号元素(Bhn)
+Bihexunium: 261号元素(Bhu)
+Bihexbium: 262号元素(Bhb)
+Bihextrium: 263号元素(Bht)
+Bihexquadium: 264号元素(Bhq)
+Bihexpentium: 265号元素(Bhp)
+Bihexhexium: 266号元素(Bhh)
+Bihexseptium: 267号元素(Bhs)
+Bihexoctium: 268号元素(Bho)
+Bihexennium: 269号元素(Bhe)
+Biseptnilium: 270号元素(Bsn)
+Biseptunium: 271号元素(Bsu)
+Biseptbium: 272号元素(Bsb)
+Bisepttrium: 273号元素(Bst)
+Biseptquadium: 274号元素(Bsq)
+Biseptpentium: 275号元素(Bsp)
+Bisepthexium: 276号元素(Bsh)
+Biseptseptium: 277号元素(Bss)
+Biseptoctium: 278号元素(Bso)
+Biseptennium: 279号元素(Bse)
+Bioctnilium: 280号元素(Bon)
+Bioctunium: 281号元素(Bou)
+Bioctbium: 282号元素(Bob)
+Biocttrium: 283号元素(Bot)
+Bioctquadium: 284号元素(Boq)
+Bioctpentium: 285号元素(Bop)
+Biocthexium: 286号元素(Boh)
+Bioctseptium: 287号元素(Bos)
+Bioctoctium: 288号元素(Boo)
+Bioctennium: 289号元素(Boe)
+Biennilium: 290号元素(Ben)
+Biennunium: 291号元素(Beu)
+Biennbium: 292号元素(Beb)
+Bienntrium: 293号元素(Bet)
+Biennquadium: 294号元素(Beq)
+Biennpentium: 295号元素(Bep)
+Biennhexium: 296号元素(Beh)
+Biennseptium: 297号元素(Bes)
+Biennoctium: 298号元素(Beo)
+Biennennium: 299号元素(Bee)
+Trinilnilium: 300号元素(Tnn)
+Trinilunium: 301号元素(Tnu)
+Trinilbium: 302号元素(Tnb)
+Triniltrium: 303号元素(Tnt)
+Trinilquadium: 304号元素(Tnq)
+Trinilpentium: 305号元素(Tnp)
+Trinilhexium: 306号元素(Tnh)
+Trinilseptium: 307号元素(Tns)
+Triniloctium: 308号元素(Tno)
+Trinilennium: 309号元素(Tne)
+Triunnilium: 310号元素(Tun)
+Triununium: 311号元素(Tuu)
+Triunbium: 312号元素(Tub)
+Triuntrium: 313号元素(Tut)
+Triunquadium: 314号元素(Tuq)
+Triunpentium: 315号元素(Tup)
+Triunhexium: 316号元素(Tuh)
+Triunseptium: 317号元素(Tus)
+Triunoctium: 318号元素(Tuo)
+Triunennium: 319号元素(Tue)
+Tribinilium: 320号元素(Tbn)
+Tribiunium: 321号元素(Tbu)
+Tribibium: 322号元素(Tbb)
+Tribitrium: 323号元素(Tbt)
+Tribiquadium: 324号元素(Tbq)
+Tribipentium: 325号元素(Tbp)
+Tribihexium: 326号元素(Tbh)
+Tribiseptium: 327号元素(Tbs)
+Tribioctium: 328号元素(Tbo)
+Tribiennium: 329号元素(Tbe)
+Tritrinilium: 330号元素(Ttn)
+Tritriunium: 331号元素(Ttu)
+Tritribium: 332号元素(Ttb)
+Tritritrium: 333号元素(Ttt)
+Tritriquadium: 334号元素(Ttq)
+Tritripentium: 335号元素(Ttp)
+Tritrihexium: 336号元素(Tth)
+Tritriseptium: 337号元素(Tts)
+Tritrioctium: 338号元素(Tto)
+Tritriennium: 339号元素(Tte)
+Triquadnilium: 340号元素(Tqn)
+Triquadunium: 341号元素(Tqu)
+Triquadbium: 342号元素(Tqb)
+Triquadtrium: 343号元素(Tqt)
+Triquadquadium: 344号元素(Tqq)
+Triquadpentium: 345号元素(Tqp)
+Triquadhexium: 346号元素(Tqh)
+Triquadseptium: 347号元素(Tqs)
+Triquadoctium: 348号元素(Tqo)
+Triquadennium: 349号元素(Tqe)
+Tripentnilium: 350号元素(Tpn)
+Tripentunium: 351号元素(Tpu)
+Tripentbium: 352号元素(Tpb)
+Tripenttrium: 353号元素(Tpt)
+Tripentquadium: 354号元素(Tpq)
+Tripentpentium: 355号元素(Tpp)
+Tripenthexium: 356号元素(Tph)
+Tripentseptium: 357号元素(Tps)
+Tripentoctium: 358号元素(Tpo)
+Tripentennium: 359号元素(Tpe)
+Trihexnilium: 360号元素(Thn)
+Trihexunium: 361号元素(Thu)
+Trihexbium: 362号元素(Thb)
+Trihextrium: 363号元素(Tht)
+Trihexquadium: 364号元素(Thq)
+Trihexpentium: 365号元素(Thp)
+Trihexhexium: 366号元素(Thh)
+Trihexseptium: 367号元素(Ths)
+Trihexoctium: 368号元素(Tho)
+Trihexennium: 369号元素(The)
+Triseptnilium: 370号元素(Tsn)
+Triseptunium: 371号元素(Tsu)
+Triseptbium: 372号元素(Tsb)
+Trisepttrium: 373号元素(Tst)
+Triseptquadium: 374号元素(Tsq)
+Triseptpentium: 375号元素(Tsp)
+Trisepthexium: 376号元素(Tsh)
+Triseptseptium: 377号元素(Tss)
+Triseptoctium: 378号元素(Tso)
+Triseptennium: 379号元素(Tse)
+Trioctnilium: 380号元素(Ton)
+Trioctunium: 381号元素(Tou)
+Trioctbium: 382号元素(Tob)
+Triocttrium: 383号元素(Tot)
+Trioctquadium: 384号元素(Toq)
+Trioctpentium: 385号元素(Top)
+Triocthexium: 386号元素(Toh)
+Trioctseptium: 387号元素(Tos)
+Trioctoctium: 388号元素(Too)
+Trioctennium: 389号元素(Toe)
+Triennilium: 390号元素(Ten)
+Triennunium: 391号元素(Teu)
+Triennbium: 392号元素(Teb)
+Trienntrium: 393号元素(Tet)
+Triennquadium: 394号元素(Teq)
+Triennpentium: 395号元素(Tep)
+Triennhexium: 396号元素(Teh)
+Triennseptium: 397号元素(Tes)
+Triennoctium: 398号元素(Teo)
+Triennennium: 399号元素(Tee)
 
 #流体
 Air: 空气
@@ -128,6 +411,7 @@ Biomass: 生物质
 Chlorine: 氯
 Creosote Oil: 木榴油
 Deuterium: 氘
+Tritium: 氚
 Fiery Blood: 炙热的血
 Natural Gas: 天然气
 Glue: 胶水
@@ -143,6 +427,11 @@ Bio Diesel: 生物柴油
 Glyceryl Trinitrate: 硝化甘油
 Lubricant: 润滑剂
 Methane: 甲烷
+Mc Guffium 239: Mc Guffium 239
+Steam: 蒸汽
+Creosote: 杂酚油
+Ethanol: 乙醇
+Glyceryl: 甘油
 
 #食物
 Fish Oil: 鱼油
@@ -150,10 +439,10 @@ Holy Water: 圣水
 Lava: 岩浆
 Honey: 蜂蜜
 Coffee: 咖啡
+Dark Coffee: 清咖啡
 Juice: 汁
 Tea: 茶
 Wine: 葡萄酒
-Brew: 药水
 Rum: 朗姆酒
 Lemonade: 柠檬汽水
 Cider: 苹果酒
@@ -177,6 +466,7 @@ Milk: 牛奶
 Apple Juice: 苹果汁
 Alcopops: 波普甜酒
 Beer: 啤酒
+Dark Beer: 黑啤
 Cheese: 奶酪
 Sugar: 糖
 Chili: 辣椒
@@ -189,6 +479,13 @@ Mince Meat: 生肉糜
 Cooked Mince Meat: 熟肉糜
 Reed Water: 甘蔗汁
 Vinegar: 醋
+Chocolate: 巧克力
+Lemon: 柠檬
+Potato: 马铃薯
+Grape: 葡萄
+Salty Water: 盐水
+Scotch: 苏格兰威士忌
+Sweet Tea: 甜茶
 
 #矿物
 BrickNether: 地狱砖
@@ -279,6 +576,10 @@ Epidote: 绿帘石
 Emery: 金刚砂
 Shale: 页岩
 Eclogite: 榴辉岩
+Andesite: 安山岩
+Basalt: 玄武岩
+Feldspar: 长石
+Limonite: 褐铁矿
 
 #宝石
 Bloodstone: 鸡血石
@@ -295,10 +596,15 @@ Diamond: 钻石
 Olivine: 橄榄石
 Opal: 猫眼石
 Amethyst: 紫水晶
+Aquamarine: 海蓝宝石
+Agate: 玛瑙
+Citrine: 黄水晶
+Cyanite: 蓝晶石
 
 #材料
 Rubber: 橡胶
 Plastic: 塑料
+Sealed Wood: 蜡封木
 Wood: 木头
 Flint: 燧石
 Firestone: 燧石
@@ -314,6 +620,7 @@ Concrete: 混凝土
 Charcoal: 木炭
 Brick: 砖
 Ash: 灰
+Ashes: 灰
 Snow: 雪
 Steeleaf: 钢叶
 Chalk: 粉笔
@@ -324,6 +631,7 @@ Granite: 花岗岩
 Nether Star: 下界之星
 Gelatine: 明胶
 Glowstone: 萤石
+Fluorite: 萤石
 Niter: 硝石
 Enderpearl: 末影珍珠
 Endereye: 末影之眼
@@ -335,11 +643,42 @@ Salt: 盐
 Sandstone: 砂石
 Gravel: 沙砾
 Sand: 沙子
+Mineral Sand: 矿砂
 BioMass: 生物质
+Neutron: 中子
+Neutrino: 中微子
+Photon: 光子
+AntiElectron: 正电子
+Electron: 电子
+Nitro: 硝基
+Sulfuric Acid: 硫酸
+Ammonium: 铵
+Bitumen: 沥青
+Cardboard: 瓦楞纸
+Clay: 粘土
+Coral: 珊瑚
+Entropy: 熵
+Flax: 亚麻
+Gunpowder: 火药
+Lapis: 青金石
+Wheat: 小麦
+Endstone: 末地石
+Cobblestone: 圆石
+Ironwood: 硬木
+Fullers Earth: 漂白土
 
-#合金/化合物
+#合金/金属/化合物
 Chromium Dioxide: 二氧化铬
 Nitrogen Dioxide: 二氧化氮
+Sodium Persulfate: 过硫化钠
+Niobium Nitride: 氮化铌
+Nitrogen Tetroxide: 四氧化二氮
+Sodium Oxide: 氧化钠
+Osmium Tetroxide: 四氧化锇
+Silicon Dioxide: 二氧化硅
+Sodium Peroxide: 过氧化钠
+Sodium Sulfide: 硫化钠
+
 Invar: 因瓦合金
 Bismuth Bronze: 铋青铜合金
 Vibranium: 钒合金
@@ -349,11 +688,14 @@ Rose Gold: 玫瑰金
 Vanadium-Gallium: 钒镓合金
 Yttrium-Barium-Cuprate: 钇钡铜氧合金
 AluminumBrass: 铝黄铜
-
-#金属/俗名
+Aluminium Brass: 铝黄铜
+Electrum: 金银合金
 Bronze: 青铜
 Steel: 钢
 Iron: 铁
+Pig Iron: 生铁
+Wrought Iron: 熟铁
+
 Bronze: 青铜
 Brass: 黄铜
 Pewter: 白镴
@@ -362,18 +704,23 @@ Damascus Steel: 大马士革钢
 HSLA-Steel: 高强度低合金钢
 Tungstensteel: 钨钢
 Chrome: 铬
+Cupronickel: 白铜
+Sterling Silver: 标准银
+Nichrome: 镍铬合金
+Kanthal: 铁铬铝合金
+Magnalium: 镁铝合金
+Mithril: 秘银
+Osmiridium: 铱锇合金
+Carborundum: 碳化硅
 
 #名词
-Foil: 箔
 Battery: 电池
-Wires: 线缆
 Dust: 粉
 Sauce: 酱
-Ore: 矿
+Ore: 矿石
 ingot: 锭
 Ingot: 锭
 Plate: 板
-Gear: 齿轮
 Alloy: 合金
 Cell: 单元
 Arrow: 箭
@@ -381,14 +728,19 @@ Arrow Head: 箭头
 Crystal: 晶体
 Gem: 宝石
 Gemstone: 宝石原石
-Spring: 弹簧
-Nugget: 粒
-Rod: 杆
 Antimatter: 反物质
 Metal: 金属
+Boiler: 锅炉
+
 Rotor: 转子
 Ring: 环
 Bolt: 螺栓
+Foil: 箔
+Wire: 线缆
+Nugget: 粒
+Rod: 杆
+Gear: 齿轮
+Spring: 弹簧
 
 #其他Mod
 Infused Air: 风
@@ -435,16 +787,15 @@ Pickaxe Head: 镐头
 File: 锉刀
 File Head: 锉刀刀头
 Wrench: 扳手
-Wrench Tips: 扳手顶
+Wrench Tip: 扳手顶
 Soft Hammer: 软锤
 JackHammer: 气锤
 Hammer: 锤子
 Hammer Head: 锤头
-
 Chainsaw: 链锯
-Chainsaw Tip: 链锯顶
+Chainsaw Tip: 链锯链条
 Drill: 电钻
-Drill Tip: 电钻顶
+Drill Tip: 电钻钻头
 Sword: 剑
 Sword Blade: 剑刃
 Sense: 大镰刀
@@ -478,10 +829,11 @@ Rolling Pin: 擀面杖
 "Can till Dirt": 用于耕地
 "Rightclick to harvest Crop Sticks": 右键回收作物架
 "Can also harvest Ice": 也可以用于采集冰块
-"Crushes Ores instead of harvesting them": "得到粉碎的矿石"
+"Crushes Ores instead of harvesting them": 得到粉碎的矿石
+"Has a slow Attack Rate": 攻击速度慢
 
 
-'$^"Book\.Microwave Oven Manual(.*?)"$': #微波炉手册
+'$^"Book\.Microwave Oven Manual(.*?)"$':
   'Microwave Oven Manual': '微波炉手册'
   'Congratulations, you inserted a random seemingly empty Book into the Microwave and these Letters appeared out of nowhere.': '恭喜！你将一本表面上空空如也的书塞进了微波炉，但是一些字符神奇地显示了出来。'
   "You just got a Microwave Oven and asked yourself 'why do I even need it?'.": "你刚刚获得了一台微波炉，然后扪心自问“我为什么会需要这玩意儿？”"
@@ -497,53 +849,54 @@ Rolling Pin: 擀面杖
   "Do not insert Explosives such as Eggs. Just don't.": '不要放入爆炸物！比如鸡蛋。也不要问那么多为什么。'
 
 '$^"Book\.Printer Manual V2\.0(.*?)"$':
-  "Printer Manual V2.0": ""
-  "This Manual explains the different Functionalities the GregTech Printing Factory has built in,": ""
-  "which are not in NEI. Most got NEI Support now, but there is still some left without it.": ""
-  "1. Coloring Items and Blocks: You know those Crafting Recipes,": ""
-  "which have a dye surrounded by 8 Item to dye them?": ""
-  "Or the ones which have just one Item and one Dye in the Grid?": ""
-  "Those two Recipe Types can be cheaply automated using the Printer.": ""
-  "The Colorization Functionality even optimizes the Recipes,": ""
-  "which normally require 8 Items + 1 Dye to 1 Item and an 8th of the normally used Dye in Fluid Form,": ""
-  "isn't that awesome?": ""
-  "2. Copying Books: This Task got slightly harder.": ""
-  "The first Step is putting the written and signed Book inside the Scanner with a Data Stick ready to receive the Data.": ""
-  "Now insert the Stick into the Data Slot of the Printer and add 3 pieces of Paper together with 144 Liters of actual Ink Fluid.": ""
-  "Water mixed and chemical Dyes won't work on Paper without messing things up!": ""
-  "You got a stack of Pages for your new Book, just put them into the Assembler": ""
-  "with some Glue and a piece of Leather for the Binding,": ""
-  "and you receive an identical copy of the Book, which would stack together with the original.": ""
-  "3. Renaming Items: This Functionality is no longer Part of the Printer.": ""
-  "There is now a Name Mold for the Forming Press to imprint a Name into an Item,": ""
-  "just rename the Mold in an Anvil and use it in the Forming Press on any Item.": ""
-  "4. Crafting of Books, Maps, Nametags etc etc etc:": ""
-  "Those Recipes moved to other Machines, just look them up in NEI.": ""
+  "Printer Manual V2.0": "打印机手册 V2.0"
+  "This Manual explains the different Functionalities the GregTech Printing Factory has built in,": "这份手册描述了格雷科技打印机的未在NEI合成表中列出的功能。"
+  "which are not in NEI. Most got NEI Support now, but there is still some left without it.": "尽管NEI包括了大部分的功能，但它还是漏掉了一些。"
+  "1. Coloring Items and Blocks: You know those Crafting Recipes,": "1、给物品和方块染色：你一定知道那些"
+  "which have a dye surrounded by 8 Item to dye them?": "由八个物品围绕着一份染料"
+  "Or the ones which have just one Item and one Dye in the Grid?": "或是有一份物品加一份染料构成的合成吧？"
+  "Those two Recipe Types can be cheaply automated using the Printer.": "这两种类型的合成可以由打印机以经济的方式进行自动化处理。"
+  "The Colorization Functionality even optimizes the Recipes,": "打印机同时优化了流程，让平时所需的八份物品加一份染料"
+  "which normally require 8 Items + 1 Dye to 1 Item and an 8th of the normally used Dye in Fluid Form,": "变为一个物品加八分之一份液体染料。"
+  "isn't that awesome?": "这真是个不错的改进。"
+  "2. Copying Books: This Task got slightly harder.": "2、复印书籍：这个任务稍微有些复杂。"
+  "The first Step is putting the written and signed Book inside the Scanner with a Data Stick ready to receive the Data.": "第一步是将成书连同数据球一起放入扫描仪中。"
+  "Now insert the Stick into the Data Slot of the Printer and add 3 pieces of Paper together with 144 Liters of actual Ink Fluid.": "然后将数据球放入打印机的数据槽中，并放入三张纸和144L纯墨水。"
+  "Water mixed and chemical Dyes won't work on Paper without messing things up!": "水合墨水和化学染料会将纸张弄得一团糟！"
+  "You got a stack of Pages for your new Book, just put them into the Assembler": "现在，你的到了新书的一叠纸，你只需把它们"
+  "with some Glue and a piece of Leather for the Binding,": "和一张皮革和一些胶水一起送进组装器即可。"
+  "and you receive an identical copy of the Book, which would stack together with the original.": "这样你就获得了和原书一模一样的一份拷贝，他们应该能堆叠在一起。"
+  "3. Renaming Items: This Functionality is no longer Part of the Printer.": "3、重命名物品：这事现在不归打印机管了。"
+  "There is now a Name Mold for the Forming Press to imprint a Name into an Item,": "现在将名称压印到物品上的任务落到了命名模具的的身上。"
+  "just rename the Mold in an Anvil and use it in the Forming Press on any Item.": "你只需将模具放入铁砧重命名即可用其压印任何物品。"
+  "4. Crafting of Books, Maps, Nametags etc etc etc:": "4、书本，地图，命名牌之类之类的合成："
+  "Those Recipes moved to other Machines, just look them up in NEI.": "这些合成被移动到了其他机器中，快去NEI里找找！"
 
-'$^"Book\.Punch Card Manual.*?"$':
-  'Punch Card Manual V0.0': ""
-  "This Manual will explain the Functionality of the Punch Cards,": ""
-  "once they are fully implemented.": ""
-  "And no, they won't be like the IRL Punch Cards.": ""
-  "This is just a current Idea Collection.": ""
-  "(i1&&i2)?o1=15:o1=0;=10": ""
-  "ignore all Whitespace Characters, use Long for saving the Numbers": ""
-  "&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F": ""
-  "'0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'": ""
-  "',' is just a separator for multiple executed Codes in a row.": ""
-  "';' means that the Program waits until the next tick before continuing.": ""
-  "';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1.": ""
-  "And ';=0' or anything < 0 will default to 0.": ""
-  "If the '=' Operator is used within Brackets, it returns the value the variable has been set to.": ""
-  "The Program saves the Char Index of the current Task,": ""
-  "the 10 Variables (which reset to 0 as soon as the Program Loop stops),": ""
-  "the 10 Member Variables and the remaining waiting Time in its NBT.": ""
-  "A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since Redstone has only 4 Bits.": ""
-  "For implementing Loops you just need 1 Punch Card per Loop,": ""
-  "these Cards can restart once they are finished,": ""
-  "depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.": ""
-  "A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.": ""
-  "made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.": ""
+'$^"Book\.Punch Card Manual.*?"$': # TODO: 等GT作者脑洞完成再翻译
+  'Punch Card Manual V0.0': "Punch Card Manual V0.0"
+  "This Manual will explain the Functionality of the Punch Cards,": "This Manual will explain the Functionality of the Punch Cards,"
+  "once they are fully implemented.": " once they are fully implemented."
+  "And no, they won't be like the IRL Punch Cards.": "And no, they won't be like the IRL Punch Cards."
+  "This is just a current Idea Collection.": " This is just a current Idea Collection."
+  "(i1&&i2)?o1=15:o1=0;=10": "(i1&&i2)?o1=15:o1=0;=10"
+  "ignore all Whitespace Characters, use Long for saving the Numbers": "ignore all Whitespace Characters, use Long for saving the Numbers"
+  "&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F": "&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F"
+  "'0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'": "'0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'"
+  "',' is just a separator for multiple executed Codes in a row.": "',' is just a separator for multiple executed Codes in a row."
+  "';' means that the Program waits until the next tick before continuing.": "';' means that the Program waits until the next tick before continuing."
+  "';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1.": " ';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1."
+  "And ';=0' or anything < 0 will default to 0.": " And ';=0' or anything < 0 will default to 0."
+  "If the '=' Operator is used within Brackets, it returns the value the variable has been set to.": "If the '=' Operator is used within Brackets, it returns the value the variable has been set to."
+  "The Program saves the Char Index of the current Task,": "The Program saves the Char Index of the current Task,"
+  "the 10 Variables (which reset to 0 as soon as the Program Loop stops),": " the 10 Variables (which reset to 0 as soon as the Program Loop stops),"
+  "the 10 Member Variables and the remaining waiting Time in its NBT.": " the 10 Member Variables and the remaining waiting Time in its NBT."
+  "A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since Redstone has only 4 Bits.": "A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since Redstone has only 4 Bits."
+  "For implementing Loops you just need 1 Punch Card per Loop,": "For implementing Loops you just need 1 Punch Card per Loop,"
+  "these Cards can restart once they are finished,": " these Cards can restart once they are finished,"
+  "depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.": " depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally."
+  "A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.": "A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel."
+  "Why does the Punch Card need Ink to be": "Why does the Punch Card need Ink to be"
+  "made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.": " made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card."
 
 #颜色
 Red: 红
@@ -571,7 +924,8 @@ Quintuple: 五重
 'Any Sub-Block of this one': '任何该方块的子方块'
 'Any Sub Block of this one': '任何该方块的子方块'
 'Any Sub-Item of this one': '任何该物品的子物品'
-Generated Item: 生成的物品
+'Generated Item': 生成的物品
+'NULL': NULL
 
 
 #合成表表头
@@ -595,72 +949,56 @@ Generated Item: 生成的物品
   Fluid Canning Machine: 流体罐装机
   Fluid Extractor: 液体提取器
   Fluid Heater: 流体加热器
-
   '#^Fluid (Naquadah) Reactor$': "液态{0[0]}反应堆"
   '#^Large (Naquadah) Reactor$': "大型{0[0]}反应堆"
   '#^Small (Naquadah) Reactor$': "小型{0[0]}反应堆"
-
   Fluid Solidifier: 液体固化器
   Fusion Reactor: 聚变反应器
-  Hammer: 锤子
+  Hammer: 锤子/锻造锤
   Implosion Compressor: 聚爆压缩机
   Precision Laser Engraver: 高精度镭射雕刻机
   Lathe: 车床
-  Microwave: 微波
+  Microwave: 微波炉子
   Plasma Arc Furnace: 等离子电弧炉
   Electromagnetic Polarizer: 电磁极化机
   Printer: 打印机
   Scanner: 扫描仪
   Vacuum Freezer: 真空冷冻器
   Wiremill: 线缆轧制机
-
+  Cutting Saw: 切割机
+  Diesel Generator Fuel: 柴油发电机燃料
+  Gas Turbine Fuel: 燃气涡轮燃料
+  Forming Press: 压印机
+  Semifluid Boiler Fuel: 半流体锅炉燃料
+  Thermal Generator Fuel: 火力发电机燃料
+  Autoclave: 高压釜
+  Pulverization: 粉碎
+  Slicer: 切片机 
+'$^ic\.recipe.*?$':
   Compressor: 压缩机
   Extractor: 提取器
   Ore Washer: 洗矿场
   Recycler: 回收机
   Thermal Centrifuge: 热能离心机
-
+'$^mc\.recipe.*?$':
   Furnace: 炉子
-
-
-
-#============================
 
 #形容词
 Anti-: 反物质
-' Plasma': 离子
-'Enriched ': 浓缩
-'Small Pile of ': '小堆'
-'Purified ': 纯净
-'Tiny Pile of ': 小撮
-'Impure Pile of ': 含杂
-'Crushed ': 粉碎的
-'Molten ': 熔化的
-'Chocolate ': 巧克力
-'Stretched ': 加长
-'Lemon ': 柠檬
-'Weakening ': 虚弱
-'Splash ': 喷溅
-'Strength ': 力量
-'Swiftness ': 迅捷
-'Regenerating ': 再生
-'Potato ': 马铃薯
-'Poisonous ': 剧毒
-'Night Vision ': 夜视
-'Invisible ': 隐身
-'Golden ': 金
-'Harming ': 伤害
-'Fire Resistant ': 抗火
-'Strong ': 加强
-'Grape ': 葡萄
-'Healing ': 治愈
-'Awkward ': 迟缓
-'Bitter ': 苦味
-'Mundane ': 平凡的
-'Crate of ': '板条箱:'
-'Nether ': 地狱
-Endstone: 末地石
-'Magnetic ': 磁化
+Plasma: 离子
+Enriched: 浓缩
+Small Pile of: 小堆
+Purified: 纯净的
+Tiny Pile of: 小撮
+Impure: 含杂的
+Pile of: 一堆
+Crushed: 粉碎的
+Molten: 熔化的
+Strong: 加强
+Bitter: 苦味
+Crate of: '板条箱:'
+Nether: 地狱
+Magnetic: 磁化
 Powder: 粉
 Blocks of: 块状
 Block of: 块状
@@ -673,3 +1011,26 @@ Chipped: 碎裂的
 Exquisite: 精美的
 Flawed: 有瑕疵的
 Flawless: 无瑕的
+
+#药水相关
+'$.*?potion.*':
+  Stretched: 加长
+  Weakening: 虚弱
+  Splash: 喷溅
+  Strength: 力量
+  Swiftness: 迅捷
+  Regenerating: 再生
+  Night Vision: 夜视
+  Invisible: 隐身
+  Golden: 金
+  Harming: 伤害
+  Fire Resistant: 抗火
+  Healing: 治愈
+  Awkward: 迟缓
+  Mundane: 平凡的
+  Poisonous: 剧毒
+  Brew: 药水
+  Thick: 浑浊的
+  Lame: 迟缓
+  Fishy: 水肺
+  
